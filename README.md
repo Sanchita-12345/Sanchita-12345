@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Sanchita Barik👋
 
 - 🌱 I’m currently learning PHP laravel framework,VUEJS and Jenkins CI/CD principle👩🏻‍💻
 - 👯 I’m looking to collaborate on IT Scetor
