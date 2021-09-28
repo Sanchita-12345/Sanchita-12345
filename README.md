@@ -8,3 +8,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love new dresses😄
 - ⭐ I love meeting new people😊
+<img src='https://github.com/Sanchita-12345/Sanchita-12345/blob/main/interactive-presentation-header-1.gif'>
